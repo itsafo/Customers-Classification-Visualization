@@ -24,11 +24,11 @@
 
 
 #### Screenshot
-![](images/ml_streamlit_app01.png)
+![](images/Dashboard Report.png)
 
 
 
-![](images/ml_streamlit_app02.png)
+![](images/Process Automation Flow.png)
 
 
 
@@ -38,5 +38,5 @@
 
 
 #### Ref
-<a href="https://hearthaven.herokuapp.com" target="_blank">Heart Disease Prediction App</a>
+<a href="https://dataanalyst.afolabi.tk/computer-hardware-manufacturer/#dashboard" target="_blank">Dashboard link</a>
 
