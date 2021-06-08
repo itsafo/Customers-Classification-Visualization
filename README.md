@@ -24,7 +24,7 @@
 
 
 #### Screenshot
-![](images/Dashboard Report.png)
+![](https://github.com/itsafo/Customers-Classification-Visualization/blob/main/images/Dashboard%20Report.png)
 
 
 
