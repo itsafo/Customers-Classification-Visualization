@@ -24,10 +24,10 @@
 
 
 #### Screenshot
-##### Dashboard
+##### Process Automation Flow
 ![](https://github.com/itsafo/Customers-Classification-Visualization/blob/main/images/Process%20Automation%20Flow.png)
 
-##### Process Automation Flow
+##### Dashboard 
 ![](https://github.com/itsafo/Customers-Classification-Visualization/blob/main/images/Dashboard%20Report.png)
 
 
