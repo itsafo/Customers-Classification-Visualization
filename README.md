@@ -1,7 +1,7 @@
 # Customers Classification Visualization
 
 ### Classified Dashboard Repoort
-**[Link](https://dataanalyst.afolabi.tk/computer-hardware-manufacturer/#dashboard)**
+**[Link](https://dataanalyst.afolabi.tk/customers-classification-insights/#dashboard)**
 
 
 #### Purpose
@@ -33,5 +33,5 @@
 
 
 #### Ref
-<a href="https://dataanalyst.afolabi.tk/computer-hardware-manufacturer/#dashboard" target="_blank">Dashboard link</a>
+<a href="https://dataanalyst.afolabi.tk/customers-classification-insights/#dashboard" target="_blank">Dashboard link</a>
 
